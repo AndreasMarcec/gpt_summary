@@ -1,0 +1,7 @@
+pydub
+yt_dlp
+openai
+python-dotenv
+click
+validators
+pytest
